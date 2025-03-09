@@ -24,7 +24,7 @@
 ![Оригінальне графічне зображення з текстом](images/Original/graphic_image_with_text.png)
 **Оригінальне графічне зображення з текстом**
 
-[Оригінальна фотографія](https://github.com/ni-cookie/image-optimization-squoosh/workshop_1/images/Original/photo.HEIC)
+[Оригінальна фотографія](https://github.com/ni-cookie/image-optimization-squoosh/blob/main/workshop_1/images/Original/photo.HEIC)
 **Оригінальна фотографія (Оскільки Markdown не підтримує формат .HEIC, то просто залишу посилання на нього в репозиторії.)**
 
 ![Оригінальний скріншот](images/Original/screenshot.png)
@@ -113,6 +113,10 @@
 ![Файли "Скріншот" AVIF 50%/75%/100%](images/INFO_files_images/imageAVIF_Screenshot_50_75_100.png)
 **Файли "Скріншот" AVIF 50%/75%/100%**
 
+### **AVIF (Lossy)** 50%
+![AVIF (Lossy) 50% графічне зображення з текстом](images/LOSSY/AVIFlossy50/graphic_image_with_text.avif)
+![AVIF (Lossy) 50% фотографія](images/LOSSY/AVIFlossy50/photo.avif)
+![AVIF (Lossy) 50% скріншот](images/LOSSY/AVIFlossy50/screenshot.avif)
 ### **AVIF (Lossy)** 50%
 ![AVIF (Lossy) 50% графічне зображення з текстом](images/LOSSY/AVIFlossy50%/graphic_image_with_text.avif)
 ![AVIF (Lossy) 50% фотографія](images/LOSSY/AVIFlossy50%/photo.avif)
