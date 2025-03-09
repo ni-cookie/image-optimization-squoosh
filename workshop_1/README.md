@@ -19,15 +19,19 @@
 | **Скріншот**             | PNG    | 3245717 bytes / 3.2 MB | 3600×2338     |
 
 ![Оригінальні файли](images/INFO_files_images/imageORIGINAL.png)
+
 **Оригінальні файли**
 
 ![Оригінальне графічне зображення з текстом](images/Original/graphic_image_with_text.png)
+
 **Оригінальне графічне зображення з текстом**
 
 [Оригінальна фотографія](https://github.com/ni-cookie/image-optimization-squoosh/blob/main/workshop_1/images/Original/photo.HEIC)
+
 **Оригінальна фотографія (Оскільки Markdown не підтримує формат .HEIC, то просто залишу посилання на нього в репозиторії.)**
 
 ![Оригінальний скріншот](images/Original/screenshot.png)
+
 **Оригінальний скріншот**
 
 ---
@@ -42,12 +46,19 @@
 | Скриншот | PNG | 3.2 MB | 3 MB | 3600x2338 |
 
 ![PNG (Lossless) файли](images/INFO_files_images/imagePNGlossless.png)
+
 **PNG (Lossless) файли**
+
 ![PNG (Lossless) графічне зображення з текстом](images/LOSSLESS/PNG(lossless)/graphic_image_with_text.png)
+
 **PNG (Lossless) графічне зображення з текстом**
+
 ![PNG (Lossless) фотографія](images/LOSSLESS/PNG(lossless)/photo.png)
+
 **PNG (Lossless) фотографія**
+
 ![PNG (Lossless) скріншот](images/LOSSLESS/PNG(lossless)/screenshot.png)
+
 **PNG (Lossless) скріншот**
 
 **Висновок:**  
@@ -63,13 +74,21 @@
 | **Скріншот**             | WebP   | 3245717 bytes / 3.2 MB | 1210464 bytes / 1.2 MB | 3600×2338     |
 
 ![WebP (Lossless) файли](images/INFO_files_images/imageWebPlossless.png)
+
 **WebP (Lossless) файли**
+
 ![WebP (Lossless) графічне зображення з текстом](images/LOSSLESS/WebP(lossless)/graphic_image_with_text.webp)
+
 **WebP (Lossless) графічне зображення з текстом**
+
 ![WebP (Lossless) фотографія](images/LOSSLESS/WebP(lossless)/photo.webp)
+
 **WebP (Lossless) фотографія**
+
 ![WebP (Lossless) скріншот](images/LOSSLESS/WebP(lossless)/screenshot.webp)
+
 **WebP (Lossless) скріншот**
+
 
 **Висновок:**  
 Формат WebP відмінно підходить для «Графічного зображення з текстом» і «Скріншота», але для фотографії він збільшує вагу.
@@ -107,28 +126,41 @@
 | AVIF   | 100%   | 3245717 bytes / 3.2 MB | 638760 bytes / 639 KB | 3600×2338     |
 
 ![Файли "Графічне зображення з текстом" AVIF 50%/75%/100% ](images/INFO_files_images/imageAVIF_Graphic_50_75_100.png)
+
 **Файли "Графічне зображення з текстом" AVIF 50%/75%/100%**
+
 ![Файли "Фотографія" AVIF 50%/75%/100%](images/INFO_files_images/imageAVIF_Photo_50_75_100.png)
+
 **Файли "Фотографія" AVIF 50%/75%/100%**
+
 ![Файли "Скріншот" AVIF 50%/75%/100%](images/INFO_files_images/imageAVIF_Screenshot_50_75_100.png)
+
 **Файли "Скріншот" AVIF 50%/75%/100%**
 
 ### **AVIF (Lossy)** 50%
+
 ![AVIF (Lossy) 50% графічне зображення з текстом](images/LOSSY/AVIFlossy50/graphic_image_with_text.avif)
+
 ![AVIF (Lossy) 50% фотографія](images/LOSSY/AVIFlossy50/photo.avif)
+
 ![AVIF (Lossy) 50% скріншот](images/LOSSY/AVIFlossy50/screenshot.avif)
-### **AVIF (Lossy)** 50%
-![AVIF (Lossy) 50% графічне зображення з текстом](images/LOSSY/AVIFlossy50%/graphic_image_with_text.avif)
-![AVIF (Lossy) 50% фотографія](images/LOSSY/AVIFlossy50%/photo.avif)
-![AVIF (Lossy) 50% скріншот](images/LOSSY/AVIFlossy50%/screenshot.avif)
+
 ### **AVIF (Lossy)** 75%
-![AVIF (Lossy) 75% графічне зображення з текстом](images/LOSSY/AVIFlossy75%/graphic_image_with_text.avif)
-![AVIF (Lossy) 75% фотографія](images/LOSSY/AVIFlossy75%/photo.avif)
-![AVIF (Lossy) 75% скріншот](images/LOSSY/AVIFlossy75%/screenshot.avif)
+
+![AVIF (Lossy) 75% графічне зображення з текстом](images/LOSSY/AVIFlossy75/graphic_image_with_text.avif)
+
+![AVIF (Lossy) 75% фотографія](images/LOSSY/AVIFlossy75/photo.avif)
+
+![AVIF (Lossy) 75% скріншот](images/LOSSY/AVIFlossy75/screenshot.avif)
+
 ### **AVIF (Lossy)** 100%
-![AVIF (Lossy) 100% графічне зображення з текстом](images/LOSSY/AVIFlossy100%/graphic_image_with_text.avif)
-![AVIF (Lossy) 100% фотографія](images/LOSSY/AVIFlossy100%/photo.avif)
-![AVIF (Lossy) 100% скріншот](images/LOSSY/AVIFlossy100%/screenshot.avif)
+
+![AVIF (Lossy) 100% графічне зображення з текстом](images/LOSSY/AVIFlossy100/graphic_image_with_text.avif)
+
+![AVIF (Lossy) 100% фотографія](images/LOSSY/AVIFlossy100/photo.avif)
+
+![AVIF (Lossy) 100% скріншот](images/LOSSY/AVIFlossy100/screenshot.avif)
+
 
 **Висновок:**  
 “Графічне зображення з текстом” показники:
@@ -177,24 +209,40 @@
 | MozJPEG  | 100%   | 3245717 bytes / 3.2 MB | 2320188 bytes / 2.3 MB | 3600×2338     |
 
 ![Файли "Графічне зображення з текстом" MozJPEG 50%/75%/100% ](images/INFO_files_images/imageMozJPEG_Graphic_50_75_100.png)
+
 **Файли "Графічне зображення з текстом" MozJPEG 50%/75%/100%**
+
 ![Файли "Фотографія" MozJPEG 50%/75%/100%](images/INFO_files_images/imageMozJPEG_Photo_50_75_100.png)
+
 **Файли "Фотографія" MozJPEG 50%/75%/100%**
+
 ![Файли "Скріншот" MozJPEG 50%/75%/100%](images/INFO_files_images/imageMozJPEG_Screenshot_50_75_100.png)
+
 **Файли "Скріншот" MozJPEG 50%/75%/100%**
 
 ### **MozJPEG (Lossy)** 50%
-![MozJPEG (Lossy) 50% графічне зображення з текстом](images/LOSSY/MozJPEGlossy50%/graphic_image_with_text.jpg)
-![MozJPEG (Lossy) 50% фотографія](images/LOSSY/MozJPEGlossy50%/photo.jpg)
-![MozJPEG (Lossy) 50% скріншот](images/LOSSY/MozJPEGlossy50%/screenshot.jpg)
+
+![MozJPEG (Lossy) 50% графічне зображення з текстом](images/LOSSY/MozJPEGlossy50/graphic_image_with_text.jpg)
+
+![MozJPEG (Lossy) 50% фотографія](images/LOSSY/MozJPEGlossy50/photo.jpg)
+
+![MozJPEG (Lossy) 50% скріншот](images/LOSSY/MozJPEGlossy50/screenshot.jpg)
+
 ### **MozJPEG (Lossy)** 75%
-![MozJPEG (Lossy) 75% графічне зображення з текстом](images/LOSSY/MozJPEGlossy75%/graphic_image_with_text.jpg)
-![MozJPEG (Lossy) 75% фотографія](images/LOSSY/MozJPEGlossy75%/photo.jpg)
-![MozJPEG (Lossy) 75% скріншот](images/LOSSY/MozJPEGlossy75%/screenshot.jpg)
+
+![MozJPEG (Lossy) 75% графічне зображення з текстом](images/LOSSY/MozJPEGlossy75/graphic_image_with_text.jpg)
+
+![MozJPEG (Lossy) 75% фотографія](images/LOSSY/MozJPEGlossy75/photo.jpg)
+
+![MozJPEG (Lossy) 75% скріншот](images/LOSSY/MozJPEGlossy75/screenshot.jpg)
+
 ### **MozJPEG (Lossy)** 100%
-![MozJPEG (Lossy) 100% графічне зображення з текстом](images/LOSSY/MozJPEGlossy100%/graphic_image_with_text.jpg)
-![MozJPEG (Lossy) 100% фотографія](images/LOSSY/MozJPEGlossy100%/photo.jpg)
-![MozJPEG (Lossy) 100% скріншот](images/LOSSY/MozJPEGlossy100%/screenshot.jpg)
+
+![MozJPEG (Lossy) 100% графічне зображення з текстом](images/LOSSY/MozJPEGlossy100/graphic_image_with_text.jpg)
+
+![MozJPEG (Lossy) 100% фотографія](images/LOSSY/MozJPEGlossy100/photo.jpg)
+
+![MozJPEG (Lossy) 100% скріншот](images/LOSSY/MozJPEGlossy100/screenshot.jpg)
 
 **Висновок:** 
 Висновки MozJPEG 50%/75%/100% lossy
@@ -244,24 +292,40 @@
 | WebP   | 100%   | 3245717 bytes / 3.2 MB | 807502 bytes / 811 KB | 3600×2338     |
 
 ![Файли "Графічне зображення з текстом" WebP 50%/75%/100% ](images/INFO_files_images/imageWebP_Graphic_50_75_100.png)
+
 **Файли "Графічне зображення з текстом" WebP 50%/75%/100%**
+
 ![Файли "Фотографія" WebP 50%/75%/100%](images/INFO_files_images/imageWebP_Photo_50_75_100.png)
+
 **Файли "Фотографія" WebP 50%/75%/100%**
+
 ![Файли "Скріншот" WebP 50%/75%/100%](images/INFO_files_images/imageWebP_Screenshot_50_75_100.png)
+
 **Файли "Скріншот" WebP 50%/75%/100%**
 
 ### **WebP (Lossy)** 50%
-![WebP (Lossy) 50% графічне зображення з текстом](images/LOSSY/WebPlossy50%/graphic_image_with_text.webp)
-![WebP (Lossy) 50% фотографія](images/LOSSY/WebPlossy50%/photo.webp)
-![WebP (Lossy) 50% скріншот](images/LOSSY/WebPlossy50%/screenshot.webp)
+
+![WebP (Lossy) 50% графічне зображення з текстом](images/LOSSY/WebPlossy50/graphic_image_with_text.webp)
+
+![WebP (Lossy) 50% фотографія](images/LOSSY/WebPlossy50/photo.webp)
+
+![WebP (Lossy) 50% скріншот](images/LOSSY/WebPlossy50/screenshot.webp)
+
 ### **WebP (Lossy)** 75%
-![WebP (Lossy) 75% графічне зображення з текстом](images/LOSSY/WebPlossy75%/graphic_image_with_text.webp)
-![WebP (Lossy) 75% фотографія](images/LOSSY/WebPlossy75%/photo.webp)
-![WebP (Lossy) 75% скріншот](images/LOSSY/WebPlossy75%/screenshot.webp)
+
+![WebP (Lossy) 75% графічне зображення з текстом](images/LOSSY/WebPlossy75/graphic_image_with_text.webp)
+
+![WebP (Lossy) 75% фотографія](images/LOSSY/WebPlossy75/photo.webp)
+
+![WebP (Lossy) 75% скріншот](images/LOSSY/WebPlossy75/screenshot.webp)
+
 ### **WebP (Lossy)** 100%
-![WebP (Lossy) 100% графічне зображення з текстом](images/LOSSY/WebPlossy100%/graphic_image_with_text.webp)
-![WebP (Lossy) 100% фотографія](images/LOSSY/WebPlossy100%/photo.webp)
-![WebP (Lossy) 100% скріншот](images/LOSSY/WebPlossy100%/screenshot.webp)
+
+![WebP (Lossy) 100% графічне зображення з текстом](images/LOSSY/WebPlossy100/graphic_image_with_text.webp)
+
+![WebP (Lossy) 100% фотографія](images/LOSSY/WebPlossy100/photo.webp)
+
+![WebP (Lossy) 100% скріншот](images/LOSSY/WebPlossy100/screenshot.webp)
 
 **Висновок:** 
 Висновки WebP 50%/75%/100% lossy
@@ -316,13 +380,19 @@
 | Скріншот                   | WebP   | 100%   | 3245717 bytes / 3.2 MB | 204996 bytes / 209 KB | 1200×779     | **-94%**          |
 
 ![Файли "Для вебу: максимальна ширина 1200 px"](images/INFO_files_images/imageWebMax1200px.png)
+
 **Файли "Для вебу: максимальна ширина 1200 px"**
 
 ![Графічне зображення з текстом "Для вебу: максимальна ширина 1200 px"](images/Web1200/graphic_image_with_text.webp)
+
 **Графічне зображення з текстом "Для вебу: максимальна ширина 1200 px"**
+
 ![Фотографія "Для вебу: максимальна ширина 1200 px"](images/Web1200/photo.webp)
+
 **Фотографія "Для вебу: максимальна ширина 1200 px"**
+
 ![Скріншот "Для вебу: максимальна ширина 1200 px"](images/Web1200/screenshot.webp)
+
 **Скріншот "Для вебу: максимальна ширина 1200 px"**
 
 ---
@@ -337,14 +407,20 @@
 | Скріншот                   | WebP   | 100%   | 3245717 bytes / 3.2 MB | 73412 bytes / 74 KB  | 600×390     | **-98%**          |
 
 ![Файли “Для мобільних пристроїв: максимальна ширина 600 px”](images/INFO_files_images/imageMobileMax600px.png)
+
 **Файли “Для мобільних пристроїв: максимальна ширина 600 px"**
 
-![Графічне зображення з текстом "Для вебу: максимальна ширина 600 px"](images/Mobile600/graphic_image_with_text.webp)
-**Графічне зображення з текстом "Для вебу: максимальна ширина 600 px"**
-![Фотографія "Для вебу: максимальна ширина 600 px"](images/Mobile600/photo.webp)
-**Фотографія "Для вебу: максимальна ширина 600 px"**
-![Скріншот "Для вебу: максимальна ширина 600 px"](images/Mobile600/screenshot.webp)
-**Скріншот "Для вебу: максимальна ширина 600 px"**
+![Графічне зображення з текстом "Для мобільних пристроїв: максимальна ширина 600 px"](images/Mobile600/graphic_image_with_text.webp)
+
+**Графічне зображення з текстом "Для мобільних пристроїв: максимальна ширина 600 px"**
+
+![Фотографія "Для мобільних пристроїв: максимальна ширина 600 px"](images/Mobile600/photo.webp)
+
+**Фотографія "Для мобільних пристроїв: максимальна ширина 600 px"**
+
+![Скріншот "Для мобільних пристроїв: максимальна ширина 600 px"](images/Mobile600/screenshot.webp)
+
+**Скріншот "Для мобільних пристроїв: максимальна ширина 600 px"**
 
 ---
 
@@ -358,13 +434,19 @@
 | Скріншот                   | WebP   | 100%   | 3245717 bytes / 3.2 MB | 2397346 bytes / 2.4 MB | 7200×4676   | **-26%**      |
 
 ![Файли “Для Retina-дисплеїв: створіть 2x версію зображення.”](images/INFO_files_images/imageRetina2x.png)
+
 **Файли “Для Retina-дисплеїв: створіть 2x версію зображення”**
 
 ![Графічне зображення з текстом "Для Retina-дисплеїв: створіть 2x версію зображення"](images/Retina2x/graphic_image_with_text.webp)
+
 **Графічне зображення з текстом "Для Retina-дисплеїв: створіть 2x версію зображення"**
+
 ![Фотографія "Для Retina-дисплеїв: створіть 2x версію зображення"](images/Retina2x/photo.webp)
+
 **Фотографія "Для Retina-дисплеїв: створіть 2x версію зображення"**
+
 ![Скріншот "Для Retina-дисплеїв: створіть 2x версію зображення"](images/Retina2x/screenshot.webp)
+
 **Скріншот "Для Retina-дисплеїв: створіть 2x версію зображення"**
 
 ---
@@ -379,11 +461,15 @@
 | Скріншот                   | WebP   | 100%   | 3245717 bytes / 3.2 MB | **ERROR**           | 10800×7014  | **ERROR**      |
 
 ![Файли “Для Retina-дисплеїв: створіть 3x версію зображення.”](images/INFO_files_images/imageRetina3x.png)
+
 **Файли “Для Retina-дисплеїв: створіть 3x версію зображення”**
 
 ![Графічне зображення з текстом "Для Retina-дисплеїв: створіть 3x версію зображення"](images/Retina3x/graphic_image_with_text.webp)
+
 **Графічне зображення з текстом "Для Retina-дисплеїв: створіть 3x версію зображення"**
+
 ![Фотографія "Для Retina-дисплеїв: створіть 3x версію зображення"](images/Retina3x/photo.webp)
+
 **Фотографія "Для Retina-дисплеїв: створіть 3x версію зображення"**
 
 ---
